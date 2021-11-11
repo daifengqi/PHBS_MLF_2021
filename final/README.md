@@ -43,3 +43,12 @@ We will use `doc.feather` in `.ipynb` file.
 - pick words (what the original paper does)
 - word2vevc
 - doc2vec
+
+
+
+### jupyter config
+
+```
+jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
+```
+
