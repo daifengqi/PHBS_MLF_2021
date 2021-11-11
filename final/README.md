@@ -1,4 +1,4 @@
-# Text-Based Firm Similarity
+# Text-Based Firm Similarity Based on Edgar 10-K Report
 
 ## reference
 
