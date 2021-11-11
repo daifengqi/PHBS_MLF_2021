@@ -20,7 +20,7 @@ we can define what type of report ( *FILING_10K* ) we want to request
 
 ![save.png](https://i.loli.net/2021/11/10/xQsyjZzd7BH2T4l.png)
 
-- **Parse ** (34GB -> 140MB)
+- **Parse** (34GB -> 140MB)
 
 with the help of `re` and `bs4` packages.
 
